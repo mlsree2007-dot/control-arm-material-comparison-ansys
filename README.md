@@ -162,6 +162,6 @@ Both materials satisfied the fatigue requirements with safety factors greater th
 
 LATHIKKA SREE M
 
-Department of Biomedical Engineering
+Department of Mechanical  Engineering
 
 2026
